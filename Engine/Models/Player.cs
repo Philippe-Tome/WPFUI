@@ -14,6 +14,6 @@ namespace Engine.Models
         int ExperiencePoints { get; set; }
         int Level { get; set; }
         int Gold { get; set; }
-
+        
     }
 }
